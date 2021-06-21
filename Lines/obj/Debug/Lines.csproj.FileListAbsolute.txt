@@ -1,0 +1,10 @@
+E:\С# game\Lines\Lines\bin\Debug\Lines.exe.config
+E:\С# game\Lines\Lines\bin\Debug\Lines.exe
+E:\С# game\Lines\Lines\bin\Debug\Lines.pdb
+E:\С# game\Lines\Lines\obj\Debug\Lines.csprojAssemblyReference.cache
+E:\С# game\Lines\Lines\obj\Debug\Lines.Form1.resources
+E:\С# game\Lines\Lines\obj\Debug\Lines.Properties.Resources.resources
+E:\С# game\Lines\Lines\obj\Debug\Lines.csproj.GenerateResource.cache
+E:\С# game\Lines\Lines\obj\Debug\Lines.csproj.CoreCompileInputs.cache
+E:\С# game\Lines\Lines\obj\Debug\Lines.exe
+E:\С# game\Lines\Lines\obj\Debug\Lines.pdb
